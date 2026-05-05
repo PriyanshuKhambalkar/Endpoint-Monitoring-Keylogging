@@ -229,7 +229,7 @@ If you want to understand this project deeper:
 
 ## 📜 License
 
-This project is licensed under the [MIT License]() - see the LICENSE file for details.<br/> 
+This project is licensed under the [MIT License](https://github.com/PriyanshuKhambalkar/Endpoint-Monitoring-Keylogging/blob/35bd50c9a7f01c6dd836e8a2925c0edd4eb31b82/LICENSE) - see the LICENSE file for details.<br/> 
 For any other use, please get in touch with the author.
 
 ---
