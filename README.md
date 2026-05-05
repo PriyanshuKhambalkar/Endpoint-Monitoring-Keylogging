@@ -205,7 +205,7 @@ Contributions for educational improvements are welcome.
 
 ```bash
 # Fork the repository
-git fork https://github.com/18PriyanshuK/Endpoint-Monitoring-Keylogging.git
+git fork https://github.com/PriyanshuKhambalkar/Endpoint-Monitoring-Keylogging.git
 
 # Create a feature branch
 git checkout -b feature/your-improvement
