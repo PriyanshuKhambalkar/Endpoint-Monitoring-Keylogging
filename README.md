@@ -229,7 +229,7 @@ If you want to understand this project deeper:
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the [MIT License]() - see the LICENSE file for details.<br/> 
 For any other use, please get in touch with the author.
 
 ---
